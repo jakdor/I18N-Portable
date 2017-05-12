@@ -58,7 +58,7 @@
     <EmbeddedResource Include="Locales\ja.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\I18NPortable\I18NPortable.csproj">
+    <ProjectReference Include="..\..\I18NPortable\I18NPortable.csproj">
       <Project>{4dc53c6b-9f4b-4168-80c9-5d6c8849892e}</Project>
       <Name>I18NPortable</Name>
     </ProjectReference>
