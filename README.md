@@ -1,5 +1,5 @@
 
-# I18N-Portable
+# I18N-Portable + single CSV file mode fork
 Simple and cross platform internationalization/translations for Xamarin and .NET
 
 [![NuGet](https://img.shields.io/nuget/v/i18nportable.svg?style=for-the-badge)](https://www.nuget.org/packages/I18NPortable/) 
